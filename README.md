@@ -1,6 +1,6 @@
 ## Data Analysis with ggplot2 and R
 
-This project is a model for analyzing data from cancer patients, using **ggplot2** and **R** as technology.
+This project is a model for analyzing data from cancer patients, using **ggplot2** and **R**.
  
  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
  <img src="https://img.shields.io/badge/ggplot2-276DD9?style=for-the-badge"></a>
