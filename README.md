@@ -7,7 +7,7 @@ This project is a model for analyzing data from cancer patients, using **ggplot2
  
  ## Files
  
- * **ggplot_grafics.ipynb** - code of the project: 
+ * **ggplot_grafics.ipynb** - code here -> 
  <a href="https://colab.research.google.com/github/NathaliaBomtemp/ggplot-grafics-r/blob/main/ggplot_grafics.ipynb" 
 target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
  
